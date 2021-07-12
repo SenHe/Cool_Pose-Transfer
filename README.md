@@ -1,4 +1,4 @@
-# Cool_Pose-Transfer
+# Cool-Pose-Transfer
 
 This repository aims to collect cool pose transfer works published in main AI conferences (e.g., CVPR, ICCV and ECCV).
 
