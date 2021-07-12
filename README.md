@@ -17,12 +17,15 @@ This repository aims to collect cool pose transfer works published in main AI co
 ## 2019
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Unsupervised Robust Disentangling of Latent Characteristics for Image Synthesis|[[link]](https://arxiv.org/pdf/1910.10223.pdf)|ICCV|
 |ClothFlow: A Flow-Based Model for Clothed Person Generation|[[link]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf)|ICCV|
+|Unsupervised Person Image Generation with Semantic Parsing Transformation|[[link]](https://arxiv.org/pdf/1904.03379.pdf)|CVPR|
 |Progressive Pose Attention Transfer for Person Image Generation|[[link]](https://arxiv.org/pdf/1904.03349.pdf)|CVPR|
 |Dense Intrinsic Appearance Flow for Human Pose Transfer|[[link]](https://arxiv.org/pdf/1903.11326.pdf)|CVPR|
 ## 2018
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Unsupervised Person Image Synthesis in Arbitrary Poses|[[link]](https://arxiv.org/pdf/1809.10280.pdf)|CVPR|
 |Deformable GANs for Pose-based Human Image Generation|[[link]](https://arxiv.org/pdf/1801.00055.pdf)|CVPR|
 |A Variational U-Net for Conditional Appearance and Shape Generation|[[link]](https://arxiv.org/pdf/1804.04694.pdf)|CVPR|
 ## 2017
