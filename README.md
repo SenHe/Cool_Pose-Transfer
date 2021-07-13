@@ -1,6 +1,6 @@
 # Cool-Pose-Transfer
 
-This repository aims to collect cool pose transfer works published in main AI conferences (e.g., CVPR, ICCV and ECCV).
+This repository aims to collect cool pose transfer works published in main AI conferences/journals (e.g., CVPR, ICCV and ECCV).
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
 ## 2021
