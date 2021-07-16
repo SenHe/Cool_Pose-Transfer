@@ -33,7 +33,7 @@ This repository aims to collect cool pose transfer works published in main AI co
 ## 2018
 | Title | link | Venue| Setting|
 | :-----|:-----|:-----|:-------|
-|Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis|[[link]](https://papers.nips.cc/paper/2018/file/1700002963a49da13542e0726b7bb758-Paper.pdf)|Neurips||
+|Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis|[[link]](https://papers.nips.cc/paper/2018/file/1700002963a49da13542e0726b7bb758-Paper.pdf)|Neurips|Paired|
 |Unsupervised Person Image Synthesis in Arbitrary Poses|[[link]](https://arxiv.org/pdf/1809.10280.pdf)|CVPR|Unpaired|
 |Deformable GANs for Pose-based Human Image Generation|[[link]](https://arxiv.org/pdf/1801.00055.pdf)|CVPR|Paired|
 |A Variational U-Net for Conditional Appearance and Shape Generation|[[link]](https://arxiv.org/pdf/1804.04694.pdf)|CVPR|Paired|
