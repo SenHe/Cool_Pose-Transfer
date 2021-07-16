@@ -17,11 +17,11 @@ This repository aims to collect cool pose transfer works published in main AI co
 ## 2020
 | Title | link | Venue| Setting|
 | :-----|:-----|:-----|:-------|
-|Human Pose Transfer by Adaptive Hierarchical Deformation|[[link]](https://arxiv.org/pdf/2012.06940.pdf)|CGF||
-|PoNA: Pose-guided Non-local Attention for Human Pose Transfer|[[link]](https://arxiv.org/pdf/2012.07049.pdf)|TIP||
-|XingGAN for Person Image Generation|[[link]](https://arxiv.org/pdf/2007.09278.pdf)|ECCV||
-|Controllable Person Image Synthesis with Attribute-Decomposed GAN|[[link]](https://arxiv.org/pdf/2003.12267.pdf)|CVPR||
-|Deep Image Spatial Transformation for Person Image Generation|[[link]](https://arxiv.org/pdf/2003.00696.pdf)|CVPR||
+|Human Pose Transfer by Adaptive Hierarchical Deformation|[[link]](https://arxiv.org/pdf/2012.06940.pdf)|CGF|Paired|
+|PoNA: Pose-guided Non-local Attention for Human Pose Transfer|[[link]](https://arxiv.org/pdf/2012.07049.pdf)|TIP|Paired|
+|XingGAN for Person Image Generation|[[link]](https://arxiv.org/pdf/2007.09278.pdf)|ECCV|Paired|
+|Controllable Person Image Synthesis with Attribute-Decomposed GAN|[[link]](https://arxiv.org/pdf/2003.12267.pdf)|CVPR|Paired|
+|Deep Image Spatial Transformation for Person Image Generation|[[link]](https://arxiv.org/pdf/2003.00696.pdf)|CVPR|Paired|
 ## 2019
 | Title | link | Venue| Setting|
 | :-----|:-----|:-----|:-------|
