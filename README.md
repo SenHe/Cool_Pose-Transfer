@@ -10,10 +10,10 @@ This repository aims to collect cool pose transfer works published in main AI co
 **Unpaired:** the training set has no ground truth of the reference person under the target pose, i.e., the training tuple contains **reference person image, reference person pose, and target person pose**.
 
 ## 2021
-| Title | link | Venue| Setting|
-| :-----|:-----|:-----|:-------|
-|MUST-GAN: Multi-level Statistics Transfer for Self-driven Person Image|[[link]](https://arxiv.org/pdf/2011.09084.pdf)|CVPR||
-|PISE: Person Image Synthesis and Editing with Decoupled GAN|[[link]](https://arxiv.org/pdf/2103.04023.pdf)|CVPR||
+| Title | link | Venue| Setting| Flow Based or Not|
+| :-----|:-----|:-----|:-------|:-----------|
+|MUST-GAN: Multi-level Statistics Transfer for Self-driven Person Image|[[link]](https://arxiv.org/pdf/2011.09084.pdf)|CVPR|Unpaired|:x:|
+|PISE: Person Image Synthesis and Editing with Decoupled GAN|[[link]](https://arxiv.org/pdf/2103.04023.pdf)|CVPR|Paired|:heavy_check_mark:|
 ## 2020
 | Title | link | Venue| Setting|
 | :-----|:-----|:-----|:-------|
